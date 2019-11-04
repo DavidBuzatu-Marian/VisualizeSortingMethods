@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SortingMethodsWebsite/static/css/main.9582b734.chunk.css",
-    "main.js": "/SortingMethodsWebsite/static/js/main.08c166ad.chunk.js",
-    "main.js.map": "/SortingMethodsWebsite/static/js/main.08c166ad.chunk.js.map",
-    "runtime-main.js": "/SortingMethodsWebsite/static/js/runtime-main.ac7ea5d6.js",
-    "runtime-main.js.map": "/SortingMethodsWebsite/static/js/runtime-main.ac7ea5d6.js.map",
-    "static/js/2.e01df164.chunk.js": "/SortingMethodsWebsite/static/js/2.e01df164.chunk.js",
-    "static/js/2.e01df164.chunk.js.map": "/SortingMethodsWebsite/static/js/2.e01df164.chunk.js.map",
-    "index.html": "/SortingMethodsWebsite/index.html",
-    "precache-manifest.2c37a759a3dddc6e6e30dabdda09b93c.js": "/SortingMethodsWebsite/precache-manifest.2c37a759a3dddc6e6e30dabdda09b93c.js",
-    "service-worker.js": "/SortingMethodsWebsite/service-worker.js",
-    "static/css/main.9582b734.chunk.css.map": "/SortingMethodsWebsite/static/css/main.9582b734.chunk.css.map"
+    "main.css": "/VisualizeSortingMethods/static/css/main.9582b734.chunk.css",
+    "main.js": "/VisualizeSortingMethods/static/js/main.1c821a46.chunk.js",
+    "main.js.map": "/VisualizeSortingMethods/static/js/main.1c821a46.chunk.js.map",
+    "runtime-main.js": "/VisualizeSortingMethods/static/js/runtime-main.8b2c3700.js",
+    "runtime-main.js.map": "/VisualizeSortingMethods/static/js/runtime-main.8b2c3700.js.map",
+    "static/js/2.e01df164.chunk.js": "/VisualizeSortingMethods/static/js/2.e01df164.chunk.js",
+    "static/js/2.e01df164.chunk.js.map": "/VisualizeSortingMethods/static/js/2.e01df164.chunk.js.map",
+    "index.html": "/VisualizeSortingMethods/index.html",
+    "precache-manifest.c32711cdff3feef6f07e0cc91aa00fa5.js": "/VisualizeSortingMethods/precache-manifest.c32711cdff3feef6f07e0cc91aa00fa5.js",
+    "service-worker.js": "/VisualizeSortingMethods/service-worker.js",
+    "static/css/main.9582b734.chunk.css.map": "/VisualizeSortingMethods/static/css/main.9582b734.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac7ea5d6.js",
+    "static/js/runtime-main.8b2c3700.js",
     "static/js/2.e01df164.chunk.js",
     "static/css/main.9582b734.chunk.css",
-    "static/js/main.08c166ad.chunk.js"
+    "static/js/main.1c821a46.chunk.js"
   ]
 }
