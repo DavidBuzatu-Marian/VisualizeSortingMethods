@@ -11,7 +11,6 @@ const initialState = {
   arraySize: 200,
   binaryArraySize: 15,
   binaryType: 0,
-  initArray: this.initArray,
   sortingType: 0, // 0 = numbers, 1 = binary, 2 = string search
   title: 'Sorting methods for numbers',
   subTitle: 'Select a sorting type and a method for more details',
