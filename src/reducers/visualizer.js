@@ -1,7 +1,4 @@
-import { createStore, applyMiddleware } from 'redux';
-import { composeWithDevTools } from 'redux-devtools-extension';
-import thunk from 'redux-thunk';
-import rootReducer from './reducers';
+import { SET_STATE } from '../actions/types';
 
 const initialState = {
   animationSpeed: 1,
@@ -19,12 +16,16 @@ const initialState = {
   animateBM: false,
 };
 
-const middlewares = [thunk];
+export default function (state = initialState, action) {
+  const { type, payload } = action;
 
-const store = createStore(
-  rootReducer,
-  initialState,
-  composeWithDevTools(applyMiddleware(...middlewares))
-);
-
-export default store;
+  switch (type) {
+    case SET_STATE:
+      return {
+        ...state,
+        ...payload,
+      };
+    default:
+      return state;
+  }
+}
